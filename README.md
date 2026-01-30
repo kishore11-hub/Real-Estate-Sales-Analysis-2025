@@ -1,9 +1,3 @@
-Perfect 👍
-Here’s a **clean, professional, GitHub-ready `README.md`** you can **copy-paste directly**.
-This is written exactly the way **recruiters + interviewers expect**.
-
----
-
 # 🏢 Real Estate Sales Analysis – 2025
 
 ## 📌 Project Overview
